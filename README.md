@@ -1,4 +1,4 @@
-# ?? Hi! I'm Micha? Garnuch
+# 👋 Hi! I'm Michał Garnuch
 
 ## About Me
 
@@ -10,7 +10,7 @@ I'm seeking opportunities in IT – I realize the current market isn't fully rea
 
 ---
 
-## ?? Key Skills & Technologies
+## 💡 Key Skills & Technologies
 
 - **C# / Visual Studio Community 2022** – mobile apps (Xamarin), desktop apps (MVVM)  
 - **React / JavaScript / TypeScript** – web applications, AI integration  
@@ -20,19 +20,19 @@ I'm seeking opportunities in IT – I realize the current market isn't fully rea
 
 ---
 
-## ?? Projects
+## 🚀 Projects
 
 Currently, I'm mainly working on academic projects – I strive to make them practical, visually appealing, and public (with preview screenshots). All projects are available on my GitHub. Soon, I plan to expand my portfolio with larger, independent projects.
 
 ---
 
-## ?? Contact & Social Media
+## 🌐 Contact & Social Media
 
-- [LinkedIn](https://www.linkedin.com/in/micha?-garnuch-771323253)
+- [LinkedIn](https://www.linkedin.com/in/michał-garnuch-771323253)
 
 ---
 
-## ?? My Approach
+## 🧠 My Approach
 
 Experience across various industries and levels allows me to view reality broadly and practically. I understand the real-world application of systems and solutions, and can quickly discard unsuitable concepts at an early stage. My multidisciplinary background helps me keep perspective and focus on practical implementation – especially with new technologies like AI.
 
@@ -44,46 +44,46 @@ Thank you for visiting my profile!
 
 ---
 
-# ?? Cze??! Jestem Micha? Garnuch
+# 👋 Cześć! Jestem Michał Garnuch
 
 ## O mnie
 
-Jestem in?ynierem geodet? z 6-letnim do?wiadczeniem w bran?y, który odwa?nie przekwalifikowa? si? na IT – obecnie studiuj? zaawansowane aplikacje biznesowe i pracuj? jako Administrator Nieruchomo?ci w PKP (wcze?niej zarz?dza?em nieruchomo?ciami w CPK). 
+Jestem inżynierem geodetą z 6-letnim doświadczeniem w branży, który odważnie przekwalifikował się na IT – obecnie studiuję zaawansowane aplikacje biznesowe i pracuję jako Administrator Nieruchomości w PKP (wcześniej zarządzałem nieruchomościami w CPK). 
 
-Moje podej?cie do IT i programowania jest mocno futurystyczne – wierz?, ?e kluczem do nowoczesnego tworzenia oprogramowania jest AI, a nie tylko znajomo?? j?zyka programowania czy narz?dzi. 110% mojej pracy to AI: testuj?, porównuj?, pisz? kod i realizuj? projekty w ?cis?ej wspó?pracy z narz?dziami sztucznej inteligencji. 
+Moje podejście do IT i programowania jest mocno futurystyczne – wierzę, że kluczem do nowoczesnego tworzenia oprogramowania jest AI, a nie tylko znajomość języka programowania czy narzędzi. 110% mojej pracy to AI: testuję, porównuję, piszę kod i realizuję projekty w ścisłej współpracy z narzędziami sztucznej inteligencji. 
 
-Szukam pracy w IT – wiem, ?e rynek jeszcze nie jest gotowy na takie podej?cie, ale jestem przekonany, ?e przysz?o?? nale?y do tych, którzy potrafi? wspó?pracowa? z AI.
+Szukam pracy w IT – wiem, że rynek jeszcze nie jest gotowy na takie podejście, ale jestem przekonany, że przyszłość należy do tych, którzy potrafią współpracować z AI.
 
 ---
 
-## ?? Kluczowe umiej?tno?ci i technologie
+## 💡 Kluczowe umiejętności i technologie
 
 - **C# / Visual Studio Community 2022** – aplikacje mobilne (Xamarin), desktopowe (MVVM)  
 - **React / JavaScript / TypeScript** – aplikacje webowe, integracja z AI  
-- **Java** – projekty z u?yciem React Bootstrap  
-- **Chmura & AI** – wiele kursów Google Cloud Skills (w tym Vertex AI), praktyczna wiedza z zakresu rozwi?za? chmurowych  
-- **AI-First Development** – wszystkie projekty realizuj? z u?yciem AI (nie dlatego, ?e nie umiem, ale dlatego, ?e to przysz?o??!)
+- **Java** – projekty z użyciem React Bootstrap  
+- **Chmura & AI** – wiele kursów Google Cloud Skills (w tym Vertex AI), praktyczna wiedza z zakresu rozwiązań chmurowych  
+- **AI-First Development** – wszystkie projekty realizuję z użyciem AI (nie dlatego, że nie umiem, ale dlatego, że to przyszłość!)
 
 ---
 
-## ?? Projekty
+## 🚀 Projekty
 
-Aktualnie realizuj? g?ównie projekty zaliczeniowe na studiach – staram si?, ?eby by?y praktyczne, ?adne i publiczne, z pogl?dowymi screenami. Wszystkie projekty trafiaj? na mojego GitHuba. Wkrótce planuj? rozbudowa? portfolio o w?asne, wi?ksze realizacje.
-
----
-
-## ?? Kontakt i media spo?eczno?ciowe
-
-- [LinkedIn](https://www.linkedin.com/in/micha?-garnuch-771323253)
+Aktualnie realizuję głównie projekty zaliczeniowe na studiach – staram się, żeby były praktyczne, ładne i publiczne, z poglądowymi screenami. Wszystkie projekty trafiają na mojego GitHuba. Wkrótce planuję rozbudować portfolio o własne, większe realizacje.
 
 ---
 
-## ?? Moje podej?cie
+## 🌐 Kontakt i media społecznościowe
 
-Do?wiadczenie w wielu bran?ach na ró?nych poziomach pozwala mi patrze? na rzeczywisto?? szeroko i praktycznie. Rozumiem, do czego dany system lub rozwi?zanie b?dzie wykorzystywane i ju? na wczesnym etapie odrzucam nietrafione koncepcje. Wierz? w cyfryzacj? i ?wiadome wdra?anie AI w biznesie i ?yciu codziennym.
-
-> **Motto:** "Technologi? trzeba rozumie?, a nie tylko kodowa? – AI to narz?dzie, które zmienia wszystko."
+- [LinkedIn](https://www.linkedin.com/in/michał-garnuch-771323253)
 
 ---
 
-Dzi?kuj? za odwiedzenie mojego profilu!
+## 🧠 Moje podejście
+
+Doświadczenie w wielu branżach na różnych poziomach pozwala mi patrzeć na rzeczywistość szeroko i praktycznie. Rozumiem, do czego dany system lub rozwiązanie będzie wykorzystywane i już na wczesnym etapie odrzucam nietrafione koncepcje. Wierzę w cyfryzację i świadome wdrażanie AI w biznesie i życiu codziennym.
+
+> **Motto:** "Technologię trzeba rozumieć, a nie tylko kodować – AI to narzędzie, które zmienia wszystko."
+
+---
+
+Dziękuję za odwiedzenie mojego profilu!
