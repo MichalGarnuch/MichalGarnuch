@@ -1,89 +1,122 @@
-# 👋 Hi! I'm Michał Garnuch
+# Hi, I'm Michał Garnuch 👋
+
+### B.Eng. in Computer Science | Geodesy Engineer | Business Applications, Cloud & AI
 
 ## About Me
 
-I'm a geodesy engineer with 6 years of industry experience who boldly transitioned to IT – currently studying advanced business applications and working as a Property Administrator at PKP (previously managed real estate at CPK). 
+I hold engineering degrees in **Computer Science**, with a specialization in Business Application Development, and in **Geodesy and Cartography**.
 
-My approach to IT and programming is truly futuristic – I believe that the key to modern software development is AI, not just proficiency in a programming language or tool. 110% of my work is AI-driven: I test, compare, write code, and execute projects in close collaboration with artificial intelligence systems.
+My professional background includes railway infrastructure, spatial data, property management for the CPK project, and property administration at PKP S.A. This experience helps me understand not only software, but also the real processes, documentation, data responsibilities, and user needs behind business systems.
 
-I'm seeking opportunities in IT – I realize the current market isn't fully ready for this approach, but I'm certain the future belongs to those who know how to work with AI.
+I build web, mobile, and desktop applications, focusing mainly on the **.NET ecosystem**, relational databases, REST APIs, cloud solutions, and practical AI integrations.
 
----
+## Technologies
 
-## 💡 Key Skills & Technologies
+- **Backend:** C#, .NET 8, ASP.NET Core, Entity Framework Core, REST API, CQRS, MediatR, Python, FastAPI
+- **Frontend:** MudBlazor, HTML, CSS, JavaScript, TypeScript, React, Next.js, Bootstrap
+- **Databases:** SQL Server, MySQL, SQLite, MongoDB
+- **Mobile and Desktop:** .NET MAUI, Xamarin.Forms, WPF, MVVM
+- **Cloud and DevOps:** Google Cloud Run, Docker, Git, GitHub, basic CI/CD
+- **AI:** Generative AI APIs, Vertex AI, Agent Development Kit, AI agents, embeddings and semantic search
+- **Engineering:** GIS, CAD, spatial data and technical documentation
 
-- **C# / Visual Studio Community 2022** – mobile apps (Xamarin), desktop apps (MVVM)  
-- **React / JavaScript / TypeScript** – web applications, AI integration  
-- **Java** – projects with React Bootstrap  
-- **Cloud & AI** – numerous Google Cloud Skills courses (including Vertex AI), practical knowledge of cloud solutions  
-- **AI-First Development** – all my projects are AI-powered (not because I can't code, but because that's the future!)
+## Main Project
 
----
+### [CastlePlus2](https://github.com/MichalGarnuch/CastlePlus2)
 
-## 🚀 Projects
+CastlePlus2 is an integrated property and rental management system developed as my engineering thesis.
 
-Currently, I'm mainly working on academic projects – I strive to make them practical, visually appealing, and public (with preview screenshots). All projects are available on my GitHub. Soon, I plan to expand my portfolio with larger, independent projects.
+The system combines a layered .NET 8 architecture, CQRS with MediatR, Entity Framework Core, SQL Server, a REST API, a MudBlazor web application, and a .NET MAUI application.
 
----
+It covers areas such as properties, buildings, premises, tenants, rental agreements, deposits, utilities, payments, invoices, reports, dashboards, user roles, and administration.
 
-## 🌐 Contact & Social Media
+## My Approach to AI
+
+I use AI as an engineering tool supporting research, analysis, prototyping, implementation, testing, and debugging.
+
+I do not treat AI as a replacement for understanding code or system architecture. I remain responsible for technical decisions, verification, security, and the final behavior of the solution.
+
+Alongside my public repositories, I am developing and testing a multimodal web application that integrates generative AI models through APIs and supports text, images, documents, and real-time voice interactions.
+
+## Current Focus
+
+I am currently developing my skills in:
+
+- .NET business applications,
+- system integration and REST APIs,
+- cloud deployment and containerization,
+- Google Cloud and Cloud Run,
+- generative AI and agent-based systems,
+- connecting software with real business processes.
+
+I am particularly interested in projects where software, data, cloud, AI, and domain knowledge meet.
+
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/michał-garnuch-771323253)
 
 ---
 
-## 🧠 My Approach
+<details>
+<summary><strong>🇵🇱 Wersja polska</strong></summary>
 
-Experience across various industries and levels allows me to view reality broadly and practically. I understand the real-world application of systems and solutions, and can quickly discard unsuitable concepts at an early stage. My multidisciplinary background helps me keep perspective and focus on practical implementation – especially with new technologies like AI.
+# Cześć! Jestem Michał Garnuch 👋
 
-> **Motto:** "Technology should be understood, not just coded – AI is the tool that's changing everything."
-
----
-
-Thank you for visiting my profile!
-
----
-
-# 👋 Cześć! Jestem Michał Garnuch
+### Inżynier informatyki | Inżynier geodeta | Aplikacje biznesowe, chmura i AI
 
 ## O mnie
 
-Jestem inżynierem geodetą z 6-letnim doświadczeniem w branży, który odważnie przekwalifikował się na IT – obecnie studiuję zaawansowane aplikacje biznesowe i pracuję jako Administrator Nieruchomości w PKP (wcześniej zarządzałem nieruchomościami w CPK). 
+Jestem inżynierem informatyki ze specjalizacją „Programista Aplikacji Biznesowych” oraz inżynierem geodetą.
 
-Moje podejście do IT i programowania jest mocno futurystyczne – wierzę, że kluczem do nowoczesnego tworzenia oprogramowania jest AI, a nie tylko znajomość języka programowania czy narzędzi. 110% mojej pracy to AI: testuję, porównuję, piszę kod i realizuję projekty w ścisłej współpracy z narzędziami sztucznej inteligencji. 
+Moje doświadczenie zawodowe obejmuje geodezję, infrastrukturę kolejową, dane przestrzenne, gospodarkę nieruchomościami przy projekcie CPK oraz administrowanie nieruchomościami dworcowymi i budynkowymi w PKP S.A.
 
-Szukam pracy w IT – wiem, że rynek jeszcze nie jest gotowy na takie podejście, ale jestem przekonany, że przyszłość należy do tych, którzy potrafią współpracować z AI.
+Dzięki temu patrzę na systemy informatyczne nie tylko przez pryzmat kodu, lecz także rzeczywistych procesów, dokumentacji, odpowiedzialności za dane i potrzeb użytkowników.
 
----
+Tworzę aplikacje webowe, mobilne i desktopowe. Koncentruję się przede wszystkim na ekosystemie .NET, relacyjnych bazach danych, REST API, rozwiązaniach chmurowych oraz praktycznych integracjach z AI.
 
-## 💡 Kluczowe umiejętności i technologie
+## Technologie
 
-- **C# / Visual Studio Community 2022** – aplikacje mobilne (Xamarin), desktopowe (MVVM)  
-- **React / JavaScript / TypeScript** – aplikacje webowe, integracja z AI  
-- **Java** – projekty z użyciem React Bootstrap  
-- **Chmura & AI** – wiele kursów Google Cloud Skills (w tym Vertex AI), praktyczna wiedza z zakresu rozwiązań chmurowych  
-- **AI-First Development** – wszystkie projekty realizuję z użyciem AI (nie dlatego, że nie umiem, ale dlatego, że to przyszłość!)
+- **Backend:** C#, .NET 8, ASP.NET Core, Entity Framework Core, REST API, CQRS, MediatR, Python, FastAPI
+- **Frontend:** MudBlazor, HTML, CSS, JavaScript, TypeScript, React, Next.js, Bootstrap
+- **Bazy danych:** SQL Server, MySQL, SQLite, MongoDB
+- **Mobile i desktop:** .NET MAUI, Xamarin.Forms, WPF, MVVM
+- **Chmura i DevOps:** Google Cloud Run, Docker, Git, GitHub, podstawy CI/CD
+- **AI:** API modeli generatywnych, Vertex AI, Agent Development Kit, agenci AI, embeddingi i wyszukiwanie semantyczne
+- **Inżynieria:** GIS, CAD, dane przestrzenne i dokumentacja techniczna
 
----
+## Główny projekt
 
-## 🚀 Projekty
+### [CastlePlus2](https://github.com/MichalGarnuch/CastlePlus2)
 
-Aktualnie realizuję głównie projekty zaliczeniowe na studiach – staram się, żeby były praktyczne, ładne i publiczne, z poglądowymi screenami. Wszystkie projekty trafiają na mojego GitHuba. Wkrótce planuję rozbudować portfolio o własne, większe realizacje.
+CastlePlus2 to zintegrowany system do zarządzania nieruchomościami i najmem, przygotowany jako moja praca inżynierska.
 
----
+System łączy warstwową architekturę .NET 8, CQRS z MediatR, Entity Framework Core, SQL Server, REST API, aplikację webową w MudBlazor oraz aplikację .NET MAUI.
 
-## 🌐 Kontakt i media społecznościowe
+Obejmuje między innymi nieruchomości, budynki, lokale, najemców, umowy, kaucje, media, płatności, faktury, raporty, dashboardy, role użytkowników i panel administracyjny.
+
+## Moje podejście do AI
+
+Wykorzystuję AI jako narzędzie wspierające analizę, poszukiwanie rozwiązań, prototypowanie, implementację, testowanie i debugowanie.
+
+Nie traktuję sztucznej inteligencji jako zastępstwa dla rozumienia kodu i architektury systemu. Odpowiedzialność za decyzje techniczne, weryfikację, bezpieczeństwo i końcowe działanie rozwiązania pozostaje po mojej stronie.
+
+Poza publicznymi repozytoriami rozwijam i testuję również multimodalną aplikację webową, która integruje modele generatywnej AI poprzez API oraz obsługuje tekst, obrazy, dokumenty i rozmowę głosową w czasie rzeczywistym.
+
+## Aktualny kierunek rozwoju
+
+Obecnie koncentruję się na:
+
+- aplikacjach biznesowych w .NET,
+- integracji systemów i REST API,
+- wdrażaniu aplikacji w chmurze i konteneryzacji,
+- Google Cloud i Cloud Run,
+- generatywnej AI i systemach agentowych,
+- łączeniu oprogramowania z realnymi procesami biznesowymi.
+
+Najbardziej interesują mnie projekty, w których spotykają się oprogramowanie, dane, chmura, AI i praktyczna wiedza branżowa.
+
+## Kontakt
 
 - [LinkedIn](https://www.linkedin.com/in/michał-garnuch-771323253)
 
----
-
-## 🧠 Moje podejście
-
-Doświadczenie w wielu branżach na różnych poziomach pozwala mi patrzeć na rzeczywistość szeroko i praktycznie. Rozumiem, do czego dany system lub rozwiązanie będzie wykorzystywane i już na wczesnym etapie odrzucam nietrafione koncepcje. Wierzę w cyfryzację i świadome wdrażanie AI w biznesie i życiu codziennym.
-
-> **Motto:** "Technologię trzeba rozumieć, a nie tylko kodować – AI to narzędzie, które zmienia wszystko."
-
----
-
-Dziękuję za odwiedzenie mojego profilu!
+</details>
