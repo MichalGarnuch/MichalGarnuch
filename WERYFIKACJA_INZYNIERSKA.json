@@ -1,0 +1,19 @@
+{
+  "repository": "MichalGarnuch",
+  "branch": "wersja-inzynierska-2026",
+  "base_ref": "main",
+  "base_commit": "b323b45b137b33d67f049d4175db3aa0d1e6dd6f",
+  "date": "2026-10-29",
+  "checks": [
+    {
+      "command_or_scope": "node --test scripts/check-profile.test.mjs",
+      "result": "PASS: test niepożądanych adresów"
+    },
+    {
+      "command_or_scope": "node scripts/check-profile.mjs",
+      "result": "PASS: składnia linków rzeczywistego README"
+    }
+  ],
+  "limitations": "Nie sprawdzano dostępności stron ani faktów biograficznych. To repozytorium jest publiczne; indeks na tym branchu obejmuje wyłącznie publiczne repozytoria.",
+  "production_deployment_performed": false
+}
